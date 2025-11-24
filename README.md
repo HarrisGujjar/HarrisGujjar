@@ -1,6 +1,6 @@
 <!-- 📊 Animated Data Banner -->
 <p align="center">
-  <video src="./assets/dashboardVideo.mp4" width="100%" alt="Data Analyst Banner" autoplay loop muted />
+  <video src="https://cdn.dribbble.com/userupload/43865171/file/original-ea617c1b5283890eb85810fe174ca3d4.mp4" width="100%" alt="Data Analyst Banner" autoplay loop muted />
 </p>
 
 <div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; color: white;">
