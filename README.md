@@ -96,10 +96,10 @@ Proficient with analytical tools such as **Python (Pandas, NumPy, Matplotlib)** 
   <a href="https://www.linkedin.com/in/aliharis-analyst" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:aliharis.gh@gmail.com">
+  <a href="mailto:aliharis.gh@gmail.com" target='_blank'>
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/HarrisGujjar">
+  <a href="https://github.com/HarrisGujjar" target='_blank'>
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
