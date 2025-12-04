@@ -1,6 +1,6 @@
 <!-- 📊 Animated Data Banner -->
 <p align="center">
-  <video src="./assets/dashboardVideo.mp4" width="100%" alt="Data Analyst Banner" autoplay loop muted />
+ <img src='./assets/dashboardVideo.gif' alt="dashboard">
 </p>
 
 <div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; color: white;">
@@ -37,7 +37,7 @@ Proficient with analytical tools such as **Python (Pandas, NumPy, Matplotlib)** 
 
     </td>
     <td width="40%" align="center">
-      <img src="https://cdn.dribbble.com/userupload/45489765/file/bc05d9a5f274e8a088d9bf30a6a73160.jpg?resize=1024x1024&vertical=center" width="100%" style="border-radius: 12px; box-shadow: 0px 0px 15px rgba(247,37,133,0.3);" alt="Data Science/Analysis Animation" />
+      <img src="https://cdn.dribbble.com/userupload/24401260/file/original-7b140cfc0d5ebd60787375281a68d9cf.gif" width="100%" style="border-radius: 12px; box-shadow: 0px 0px 15px rgba(247,37,133,0.3);" alt="Data Science/Analysis Animation" />
     </td>
   </tr>
 </table>
@@ -79,7 +79,7 @@ Proficient with analytical tools such as **Python (Pandas, NumPy, Matplotlib)** 
 <!-- 🌊 Divider -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%" />
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats -->
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HarrisGujjar&show_icons=true&theme=tokyonight" height="165" alt="HarrisGujjar's GitHub Stats" />
@@ -93,16 +93,19 @@ Proficient with analytical tools such as **Python (Pandas, NumPy, Matplotlib)** 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aliharis-analyst" target="_blank">
+  <a href="https://www.linkedin.com/in/aliharis-analyst" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:aliharis.gh@gmail.com">
+
+  <a href="mailto:aliharis.gh@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/HarrisGujjar">
+
+  <a href="https://github.com/HarrisGujjar" >
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
 
 <br/>
 
