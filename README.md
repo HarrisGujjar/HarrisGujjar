@@ -59,7 +59,7 @@ Proficient with analytical tools such as **Python (Pandas, NumPy, Matplotlib)** 
 </p>
 
 *   **Languages**: Python, SQL (MySQL, PostgreSQL)
-*   **Libraries**: Pandas, NumPy, Matplotlib
+*   **Libraries**: Pandas, NumPy, Matplotlib, Dtale, Y-profiling, Skimpy, Seaborn
 *   **Tools**: PowerBI, MS Excel, ETL
 *   **Spoken Languages**: English, Urdu, Punjabi
 
@@ -103,6 +103,10 @@ Proficient with analytical tools such as **Python (Pandas, NumPy, Matplotlib)** 
 
   <a href="https://github.com/HarrisGujjar" >
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <a href="https://wa.me/03277297505" >
+    <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
